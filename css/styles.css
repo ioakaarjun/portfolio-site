@@ -1,0 +1,22 @@
+.logo {
+	max-height: 100px;
+	max-width: 100px;
+	margin: 20px;
+}
+
+hr {
+	display: block;
+	background: #7d97ad;
+	height: 3px;
+}
+
+.name-desg {
+	margin: auto;
+}
+
+footer {
+	margin-top: 30px;
+	text-align: center;
+	font-weight: bold;
+}
+
